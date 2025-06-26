@@ -8,7 +8,6 @@ a {
   font-weight: 600;
 }
 
-
 .bookmark {
   display: flex;
   gap: 1rem;
@@ -21,7 +20,8 @@ a {
   color: #5b5b5b;
   cursor: pointer;
   font-family: monospace;
-  font-size: smaller;
+  font-size: 1em;
   font-weight: 600;
-  padding: 1ex;
+  height: 3ex;
+  padding: .5em 1em .5em 1em;
 }
